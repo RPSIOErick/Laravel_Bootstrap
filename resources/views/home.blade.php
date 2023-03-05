@@ -36,7 +36,9 @@
                         - Login; <br>
                         - Register. <br> <br>
 
-                        Vale ressaltar que elas ainda <b> não funcionam </b> pois a atividade envolve apenas front-end!
+                        Vale ressaltar que elas ainda <b> não funcionam </b> pois a atividade envolve apenas front-end! <br><br>
+
+                        Reposisório no GitHub: <a href="https://github.com/RPSIOErick/Laravel_Boostrap"> https://github.com/RPSIOErick/Laravel_Boostrap </a>
 
                 </div>
 
