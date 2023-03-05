@@ -1,0 +1,99 @@
+#loginContent, #registerContent{
+
+    margin-top: -2rem;
+    width: 700px;
+
+}
+
+#SystemScreen{
+
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#login_screen, #register_screen{
+
+    background-color: #1f1f1f;
+    color: #CCC;
+    width: 700px;
+    height: fit-content;
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+    margin-top: -2rem;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
+
+/*
+#LoginWarning{
+
+    color: #CCC;
+    font-size: 15px;
+
+}
+
+#LoginWarning:hover {
+
+    color: #d0cfff;
+    cursor: wait;
+
+}
+*/
+
+#LoginTitle, #registerTitle{
+
+    margin-bottom: 2rem;
+    font-size: 20px;
+    background-color: #121212;
+    color: #CCC;
+    font-weight: bold;
+    border-radius: 15px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+form{
+
+    margin-top: 1rem;
+
+}
+
+.btn{
+
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    border-color: white;
+
+}
+
+.btn:hover{
+
+    background-color: #CCC;
+    border-radius: 15px;
+    color: black;
+    border-color: white;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: #fdfdfd;
+
+}
+a:hover{
+
+    color: #fff;
+    font-weight: bold;
+
+}

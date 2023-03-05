@@ -1,0 +1,80 @@
+body{
+
+    background-image: linear-gradient(to right, rgb(153, 88, 189), rgb(106, 21, 151));
+    color: #CCC;
+
+}
+#Navbar-Content{
+
+    padding: 15px;
+
+}
+
+.nav-item{
+
+    text-decoration: none;
+    color: #CCC;
+
+}
+
+.nav-link{
+
+    margin-right: 1rem;
+
+}
+
+.nav-item:hover{
+
+    text-decoration: none;
+    color: #fff;
+
+}
+
+#MainContent{
+
+    text-align: center;
+
+}
+
+#WebsitePurpose{
+
+    background-color: #313131;
+    width: fit-content;
+    border-radius: 10px;
+    margin-top: 2rem;
+    text-align: center;
+    padding: 25px;
+
+}
+
+#HomeWarningTitle, #Goal, #Task-Completed{
+
+    font-weight: bold;
+
+}
+
+#Goal, #Goal-Items, #Task-Completed, #Task-Items{
+
+    text-align: start;
+
+}
+
+footer{
+
+    margin-top: 2rem;
+    padding: 20px;
+    text-align: center;
+    background-color: #171a1d;
+    color: #cbd5e0;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+}
+
+footer p{
+
+    margin-bottom: 0;
+
+}
